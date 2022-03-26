@@ -1,1 +1,9 @@
-# Triangle_Sound
+# Triángulos Sonoros
+
+## Introducción
+
+
+## Desarrollo
+
+
+## Previsualización del Programa
