@@ -24,4 +24,5 @@ Durante la ejecución del intervalo los tamaños de las figuras se modificarán 
 
 ## Previsualización del Programa
 
+La grabación del GIF redujo en gran medida la capacidad del ordenador para modificar los tamaños de las figuras en el ciclo temporal, por lo que en una ejecución normal del programa estas sufren modificaciones mucho más notables.
 <p align="center"> <img src="animacion.gif" alt="gif animado" /> </p>
