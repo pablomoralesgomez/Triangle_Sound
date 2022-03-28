@@ -1,5 +1,12 @@
 # Triángulos Sonoros
 
+Autor: Pablo Morales Gómez
+
+Asignatura: Creando Interfaces de Usuario
+
+Curso: 4º
+
+
 ## Introducción
 
 En esta práctica hemos combinado la salida de video que se muestra por pantalla con una salida de audio que depende enteramente de como se comporta la salida visual. La parte visual está cubierta con las primitivas 2D básicas que nos proporciona Processing, mientras que la auditiva requiere de la librería *sound* y de la clase *Oscillator* que esta incluye.
